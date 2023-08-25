@@ -23,7 +23,7 @@ Welcome to YourKart, a full-stack e-commerce web application built using the MER
 - **State Management:** Context API
 - **Notification:** Toast
 - **Styling:** CSS (Bootstrap and custom styles)
-- **Deployment:** Heroku (backend), Netlify (frontend)
+- **Deployment:** Cyclic
 
 ## Getting Started
 
